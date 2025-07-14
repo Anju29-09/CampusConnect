@@ -1,1 +1,1 @@
-# CampuConnect
+# CampusConnect
